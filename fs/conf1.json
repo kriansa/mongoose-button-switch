@@ -1,0 +1,13 @@
+{
+  "mqtt": {
+    "enable": true,
+    "ssl_ca_cert": "ca.pem"
+  },
+  "wifi": {
+    "ap": {
+      "enable": false
+    },
+    "sta": {
+      "enable": true
+    }
+}

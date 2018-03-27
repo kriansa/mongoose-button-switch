@@ -1,0 +1,16 @@
+{
+  "device": {
+    "id": "mydevice_id"
+  },
+  "mqtt": {
+    "server": "your-mqtt-server:port",
+    "ssl_cert": "path-to-your-ssl-cert",
+    "ssl_key": "path-to-your-ssl-private-key"
+  },
+  "wifi": {
+    "sta": {
+      "ssid": "your-wifi-ssid",
+      "pass": "your-wifi-password"
+    }
+  }
+}
